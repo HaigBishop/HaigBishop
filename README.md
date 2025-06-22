@@ -20,12 +20,6 @@ Micro16S is a neural network for embedding 16S rRNA gene sequences trained to cr
 ### 🧫 PetriScan
 PetriScan is a collection of software for counting colonies on petri dishes. Mobile apps are coming soon.
 
-### 📁 SwapBytes
-SwapBytes peer-to-peer file-bartering CLI built in Rust with `libp2p` and an TUI powered by `ratatui`. See the [Repo](https://github.com/HaigBishop/swapbytes).
-
-### 🧂 saltcube
-This is an interactive web application for simulating a cube of salt in H2O. Built with TypeScript and Wasm-compiled Rust for the simulation code. See the [Repo](https://github.com/HaigBishop/saltcube).
-
 ---
 
 ## 🗂️ My Other Repos
@@ -35,6 +29,15 @@ A Python package for obtaining and accessing Relative Evolutionary Divergence (R
 
 ### ✂️ extract16s
 This is a CLI tool for extracting variable regions from 16S rRNA sequences. See the [Repo](https://github.com/HaigBishop/extract16s).
+
+### 🗳️ Quiet Consensus
+Quiet Consensus is a proof-of-concept decentralised, anonymous, Sybil-proof online polling service. See the [Repo](https://github.com/HaigBishop/quiet-consensus).
+
+### 📁 SwapBytes
+SwapBytes peer-to-peer file-bartering CLI built in Rust with `libp2p` and an TUI powered by `ratatui`. See the [Repo](https://github.com/HaigBishop/swapbytes).
+
+### 🧂 saltcube
+This is an interactive web application for simulating a cube of salt in H2O. Built with TypeScript and Wasm-compiled Rust for the simulation code. See the [Repo](https://github.com/HaigBishop/saltcube).
 
 ### 🪱 Pillar Centroid Tracker
 PCT is a purpose-made computer vision desktop application allowing for  the measurement of forces produced by fungi. See the [Repo](https://github.com/HaigBishop/pillar-centroid-tracker).
@@ -46,7 +49,7 @@ PDA is a purpose-made computer vision desktop application allowing for the analy
 
 ## 🧰 Tools & Tech I Use
 
-- **Languages**: Python, R, Kotlin, Swift, TypeScript, Rust
+- **Languages**: Python, R, TypeScript, Rust, Kotlin, Swift
 
 ---
 
