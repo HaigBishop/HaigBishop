@@ -6,23 +6,23 @@
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 ### 📊 Enzyme Kinetics  
-EKA is an R Shiny web app for biochemistry researchers and students to simulate and fit enzyme kinetics models, powered by the `enzKinet2` R package. See the [Repo](https://github.com/damacer/enzKinet2).
+[EKA](https://eka.nz) is an R Shiny web app for biochemistry researchers and students to simulate and fit enzyme kinetics models, powered by the `enzKinet2` R package. See the [Repo](https://github.com/damacer/enzKinet2).
 
-### 📚 Celiac Microbiome Meta-Analysis  
+### 📚 Celiac Microbiome Cross-Cohort Analysis  
 This work involves aggregating and analysing global microbiome data to uncover microbial signals linked to celiac disease. See the [Repo](https://github.com/CeliacMicrobiomeRepo/celiac-repository).
 
 ### 🧬 Micro16S  
-Micro16S is a neural network for embedding 16S rRNA gene sequences trained to create dense representations that hold phylogenetic identity of bacteria.
+Micro16S is a neural network for embedding 16S rRNA gene sequences trained to create dense representations that hold phylogenetic identity of bacteria. See the [Repo](https://github.com/HaigBishop/micro16s).
 
 ### 🧫 PetriScan
 PetriScan is a collection of software for counting colonies on petri dishes. Mobile apps are coming soon.
 
 ---
 
-## 🗂️ My Other Repos
+## My Repos
 
 ### 🌲 redvals
 A Python package for obtaining and accessing Relative Evolutionary Divergence (RED) values from GTDB phylogenetic trees. See the [Repo](https://github.com/HaigBishop/redvals).
